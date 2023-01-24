@@ -1,4 +1,4 @@
-FROM centos:centos6
+FROM centos:6
 
 
 RUN yum update yum
